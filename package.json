@@ -1,0 +1,11 @@
+{
+  "name": "Modesto",
+  "version": "0.0.1",
+  "main": "servidor.js",
+  "dependencies": {
+    "aws-sdk": "^2.1560.0",
+    "body-parser": "^1.12.4",
+    "express": "^4.8.7",
+    "node-ip": "^0.1.2"
+  }
+}
